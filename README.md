@@ -1,0 +1,3 @@
+Projeto de desenvolvimento de  uma API de um CRUD livros (com o sequelize). Começando pela API, criarei alguns endpoints (seguindo os princípios do REST) que estarão conectados ao banco de dados. 
+
+Criarei uma tabela para os usuários que desejam se cadastrar na aplicação. Depois uma tabela de Categorias para os livros e por fim a tabela de livros com informacoes de titulo, sinopse, autor, e link da para compra. 
